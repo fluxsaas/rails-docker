@@ -1,0 +1,9 @@
+development:
+  adapter: mysql2
+  encoding: utf8
+  database: zzz
+  pool: 5
+  username: root
+  password: zzz
+  host: 'db'
+  port: 3306
